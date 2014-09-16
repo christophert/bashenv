@@ -14,3 +14,8 @@
 * gpush = git push
 * gcommit = git commit -am "<message>"
 
+## Scripts
+### CS specific
+* csinit.sh = sets env variable for user
+### git
+* ctclone.sh = pull from bitbucket
