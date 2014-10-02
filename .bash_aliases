@@ -11,6 +11,6 @@ alias cs='cspwd && . ~/bin/csinit.sh $1'
 
 #git aliases
 alias ctclone='prpwd && ~/bin/ctclone.sh $1' 
-alias gpull='git pull'
-alias gpush='git push'
-alias gcommit='git commit -am $1'
+alias gpu='git pull'
+alias gp='git push'
+alias gc='git commit -am $1'
