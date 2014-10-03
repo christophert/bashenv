@@ -10,6 +10,8 @@
 * cs = cspwd and run csinit script
 ### git
 * ctclone = prpwd and run ctclone script
+* ga = git add <files>
+* gs = git status
 * gpu = git pull
 * gp = git push
 * gc = git commit -am "<message>"
