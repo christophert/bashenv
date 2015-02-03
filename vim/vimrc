@@ -9,3 +9,6 @@ let g:solarized_termcolors=256
 let g:solarized_contrast="high"
 let g:solarized_visibility="high"
 colorscheme solarized
+
+nnoremap <Leader>m :w <BAR> !lessc % > %:t:r.css<CR><space>
+
