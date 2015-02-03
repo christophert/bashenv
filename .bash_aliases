@@ -3,11 +3,9 @@
 #all aliases
 alias fuck='sudo $(history -p \!\!)'
 
-#CS141 aliases
-alias cspy='python3 $CSPR $1'
-alias cspwd='cd ~/Documents/Projects/csci141/'
+#CS142 aliases
+alias cspwd='cd ~/Documents/Projects/csci142/'
 alias prpwd='cd ~/Documents/Projects/'
-alias cs='cspwd && . ~/bin/csinit.sh $1 $2'
 
 #git aliases
 alias ctclone='prpwd && ~/bin/ctclone.sh $1' 
@@ -16,3 +14,4 @@ alias gs='git status'
 alias gpu='git pull'
 alias gp='git push'
 alias gc='git commit -am $1'
+alias gsi='git submodule init && git submodule update'
