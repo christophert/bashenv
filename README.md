@@ -4,8 +4,7 @@
 ### General
 * fuck = rerun with sudo
 ### CS specific
-* cspy = run program with python3
-* cspwd = change directory to cs141
+* cspwd = change directory to cs142
 * prpwd = change directory to Projects
 * cs = cspwd and run csinit script
 ### git
@@ -15,6 +14,7 @@
 * gpu = git pull
 * gp = git push
 * gc = git commit -am "<message>"
+* gsi = git submodule init && git submodule update
 
 ## Scripts
 ### CS specific
