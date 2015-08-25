@@ -3,8 +3,8 @@
 #all aliases
 alias fuck='sudo $(history -p \!\!)'
 
-#CS142 aliases
-alias cspwd='cd ~/Documents/Projects/csci142/'
+#CS243 aliases
+alias cspwd='cd ~/Documents/Projects/csci243/'
 alias prpwd='cd ~/Documents/Projects/'
 
 #git aliases

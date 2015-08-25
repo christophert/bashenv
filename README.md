@@ -4,7 +4,7 @@
 ### General
 * fuck = rerun with sudo
 ### CS specific
-* cspwd = change directory to cs142
+* cspwd = change directory to cs243
 * prpwd = change directory to Projects
 * cs = cspwd and run csinit script
 ### git
