@@ -10,5 +10,9 @@ let g:solarized_contrast="high"
 let g:solarized_visibility="high"
 colorscheme solarized
 
-nnoremap <Leader>m :w <BAR> !lessc % > %:t:r.css<CR><space>
+let g:notes_directories = ['~/Documents/Notes']
 
+nnoremap <Leader>m :w <BAR> !lessc % > %:t:r.css<CR><space>
+set tabstop=4
+set shiftwidth=4
+set expandtab
