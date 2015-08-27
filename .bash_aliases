@@ -1,4 +1,5 @@
 #bash aliases
+source ~/bin/cscompilesrc
 
 #all aliases
 alias fuck='sudo $(history -p \!\!)'
@@ -6,6 +7,7 @@ alias fuck='sudo $(history -p \!\!)'
 #CS243 aliases
 alias cspwd='cd ~/Documents/Projects/csci243/'
 alias prpwd='cd ~/Documents/Projects/'
+alias compile=compile
 
 #git aliases
 alias ctclone='prpwd && ~/bin/ctclone.sh $1' 
