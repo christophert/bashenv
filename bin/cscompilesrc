@@ -1,6 +1,6 @@
 compile() {
-    if [ ! -z $1 ] && [ -e $1 ]; then
-        gcc -std=c99 -Wall -Wextra -pedantic $1.c -o $1.o
+    if [ ! -z $1 ]; then
+        gcc -std=c99 -Wall -Wextra -pedantic $1 -o $1.o
         if [ $? -eq 0 ]; then
             echo "Compilation finished"
         else

@@ -8,6 +8,7 @@ alias fuck='sudo $(history -p \!\!)'
 alias cspwd='cd ~/Documents/Projects/csci243/'
 alias prpwd='cd ~/Documents/Projects/'
 alias compile=compile
+alias csgcc='gcc -std=c99 -Wall -Wextra -pedantic $@'
 
 #git aliases
 alias ctclone='prpwd && ~/bin/ctclone.sh $1' 
