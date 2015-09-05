@@ -2,7 +2,7 @@
 source ~/bin/cscompilesrc
 
 #all aliases
-alias fuck='sudo $(history -p \!\!)'
+alias fuck='sudo "\!\!"'
 
 #CS243 aliases
 alias cspwd='cd ~/Documents/Projects/csci243/'
