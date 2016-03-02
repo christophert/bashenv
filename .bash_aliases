@@ -5,7 +5,7 @@ source ~/bin/cscompilesrc
 alias fuck='sudo "\!\!"'
 
 #CS243 aliases
-alias cspwd='cd ~/Documents/Projects/csci243/'
+alias cspwd='cd ~/Documents/Projects/csci250/'
 alias prpwd='cd ~/Documents/Projects/'
 alias compile=compile
 alias csgcc='gcc -std=c99 -Wall -Wextra -pedantic $@'
