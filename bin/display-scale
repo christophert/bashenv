@@ -1,3 +1,4 @@
 #!/bin/sh
-xrandr --output eDP1 --scale 1.35x1.35
-xrandr --output eDP1 --panning 5184x2916
+xrandr --output eDP-1 --scale 1.0x1.0
+xrandr --output eDP-1 --scale 1.35x1.35
+xrandr --output eDP-1 --panning 5184x2916
