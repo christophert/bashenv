@@ -1,10 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/home/officer'
-let g:netrw_dirhist_2='/home'
-let g:netrw_dirhist_3='/home/officer/Documents/Projects/w-afbeta/www/test'
-let g:netrw_dirhist_4='/home/officer/Documents/Projects/w-afbeta/www'
-let g:netrw_dirhist_5='/home/officer/Documents/Projects/w-afbeta/www/test'
-let g:netrw_dirhist_6='/home/officer/Documents/Projects/w-afbeta/www'
-let g:netrw_dirhist_7='/home/officer/Documents/Projects/w-afbeta/www/test'
-let g:netrw_dirhist_8='/home/officer/Documents/Projects/afrotc-api/app/api/inc'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/officer/Documents/Projects/csec465/lab7'
+let g:netrw_dirhist_2='/home/officer/Documents/Projects/csec465'
+let g:netrw_dirhist_3='/home/officer/Documents/Projects'
+let g:netrw_dirhist_4='/home/officer/Documents/Projects/csec465/lab7/repo'
