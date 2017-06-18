@@ -4,10 +4,10 @@ source ~/bin/cscompilesrc
 #all aliases
 alias fuck='sudo "\!\!"'
 
-alias prpwd='cd ~/Documents/Projects/'
+alias prcd='cd ~/Documents/Projects/'
 
 #git aliases
-alias ctclone='prpwd && ~/bin/ctclone.sh $1' 
+alias ctclone='prcd && ~/bin/ctclone.sh $1' 
 alias ga='git add $@'
 alias gs='git status'
 alias gpu='git pull'
