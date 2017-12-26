@@ -1,6 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/home/officer/Documents/Projects/csec465/lab7'
-let g:netrw_dirhist_2='/home/officer/Documents/Projects/csec465'
-let g:netrw_dirhist_3='/home/officer/Documents/Projects'
-let g:netrw_dirhist_4='/home/officer/Documents/Projects/csec465/lab7/repo'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/christran/Documents/Projects/afnexus/app/Jobs'
+let g:netrw_dirhist_2='/home/christran/Documents/Projects/afnexus/app/Notifications'
+let g:netrw_dirhist_3='/home/christran/Documents/Projects/afnexus/app/Policies'
+let g:netrw_dirhist_4='/home/christran/Documents/Projects/afnexus-docker/provision'
+let g:netrw_dirhist_5='/home/christran/Documents/Projects/afnexus/app/Http/Controllers'
+let g:netrw_dirhist_6='/home/christran/Documents/Projects/framework/src/Illuminate/Mail/Transport'
+let g:netrw_dirhist_7='/home/christran/Documents/Projects/afnexus/database/seeds'
+let g:netrw_dirhist_8='/home/christran/Documents/Projects/inquisitor/routes'
+let g:netrw_dirhist_9='/home/christran/Documents/Projects/inquisitor/pyp'
