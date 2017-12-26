@@ -3,10 +3,8 @@
 ## Current Aliases
 ### General
 * fuck = rerun with sudo
-### CS specific
-* cspwd = change directory to cs243
 * prcd = change directory to Projects
-* cs = cspwd and run csinit script
+
 ### git
 * ctclone = prcd and run ctclone script
 * ga = git add <files>
@@ -17,7 +15,5 @@
 * gsi = git submodule init && git submodule update
 
 ## Scripts
-### CS specific
-* csinit.sh = sets env variable for user
 ### git
 * ctclone.sh = pull from bitbucket
