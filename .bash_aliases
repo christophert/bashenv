@@ -1,5 +1,4 @@
 #bash aliases
-source ~/bin/cscompilesrc
 
 #all aliases
 alias fuck='sudo "\!\!"'
