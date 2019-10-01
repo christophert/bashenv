@@ -6,7 +6,6 @@
 * prcd = change directory to Projects
 
 ### git
-* ctclone = prcd and run ctclone script
 * ga = git add <files>
 * gs = git status
 * gpu = git pull
@@ -15,5 +14,3 @@
 * gsi = git submodule init && git submodule update
 
 ## Scripts
-### git
-* ctclone.sh = pull from bitbucket

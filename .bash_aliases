@@ -6,7 +6,6 @@ alias fuck='sudo "\!\!"'
 alias prcd='cd ~/Documents/Projects/'
 
 #git aliases
-alias ctclone='prcd && ~/bin/ctclone.sh $1' 
 alias ga='git add $@'
 alias gs='git status'
 alias gpu='git pull'
