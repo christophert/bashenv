@@ -2,7 +2,7 @@
 
 #all aliases
 alias fuck='sudo "\!\!"'
-
+alias podrun='podman run --rm --tty'
 alias prcd='cd ~/Documents/Projects/'
 
 #git aliases
